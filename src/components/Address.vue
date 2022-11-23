@@ -3,7 +3,7 @@
     <div class="mx-auto grid max-w-2xl grid-cols-1 items-center gap-y-16 gap-x-8 py-24 px-4 sm:px-6 sm:py-32 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
       <div>
         <h2 class="mt-4 text-3xl font-bold tracking-tight sm:text-4xl text-primary-darker dark:text-primary-lighter">
-          Ubícanos
+          Localízanos
         </h2>
         <p class="mt-4 max-w-2xl sm:text-lg md:text-xl leading-8 text-secondary-dark dark:text-secondary-light">
           Estamos en Caracas, en la avenida Puente Hierro, a una cuadra de la panaderia Q'Tal, diagonal a la referencia principal.

@@ -64,9 +64,9 @@ import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuIt
 import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 
 const navigation = [
-  { name: 'Nosotros', href: '#us' },
-  { name: 'Contacto', href: '#contact' },
-  { name: 'Blog', href: '#blog' },
+  { name: 'Conócenos', href: '#us' },
+  { name: 'Localízanos', href: '#contact' },
+  { name: 'Nuestro Blog', href: '#blog' },
 ]
 
 const navigateTo = (id) => {

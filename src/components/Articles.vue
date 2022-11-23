@@ -3,7 +3,7 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
         <h2 class="mt-4 text-3xl font-bold tracking-tight sm:text-4xl text-primary-darker dark:text-primary-lighter">
-          Nuestro blog
+          Nuestro Blog
         </h2>
         <p class="mt-4 sm:text-lg md:text-xl leading-8 text-secondary-dark dark:text-secondary-light">
           Si te interesa saber más sobre las piezas, el origen de una falla o recibir tips,

@@ -17,7 +17,7 @@
             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div class="rounded-md shadow">
                 <a
-                  href="#"
+                  href="https://wa.me/+584149107346"
                   class="flex w-full gap-1 items-center justify-center rounded-md border border-transparent px-8 py-3 text-base font-medium md:py-4 md:px-10 md:text-lg text-primary-light bg-accent hover:bg-accent-darker dark:bg-accent-darker hover:dark:bg-accent shadow-md">
                   <svg-icon class="" type="mdi" :path="mdiWhatsapp"></svg-icon>
                   Contáctanos
